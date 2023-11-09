@@ -1,7 +1,7 @@
 # Digital Planner Roadmap
 #Development
 
-- [X] Set up project repository and basic folder structure
+- [] Set up project repository and basic folder structure
 - [] Implement user registration and authentication functionality
 - [] Design and create database schema
 - [] Develop task creation and management features
