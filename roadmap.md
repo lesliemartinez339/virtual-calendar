@@ -14,7 +14,7 @@
    Display Virtual Calendar: the code already has a function to display a monthly calendar. This feature can be improved by allowing users to navigate through 
    different months and years.
   
-- [x]User Authentication: Improve the authentication process by securely storing passwords and adding password hashing.
+- [x] User Authentication: Improve the authentication process by securely storing passwords and adding password hashing.
 
 #final
 
