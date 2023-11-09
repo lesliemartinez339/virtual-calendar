@@ -1,25 +1,25 @@
 # Virtual Calendar Roadmap
 #Development
 
-- [] Set up project repository and basic folder structure
-- [] Implement user registration and authentication functionality
-- [] Design and create database schema
-- [] Develop task creation and management features
-- [] Implement note-taking functionality
-- [] Design and develop user interface for the main planner view
-- [] Conduct basic testing and bug fixes
+- [X] Set up project repository and basic folder structure
+- [X] Implement user registration and authentication functionality
+- [X] Design and create database schema
+- [X] Develop task creation and management features
+- [X] Implement note-taking functionality
+- [X] Design and develop user interface for the main planner view
+- [X] Conduct basic testing and bug fixes
 
-  #Enchancements and features** -[]User Interface: Create a graphical user interface(GUI) to enhance user experience and make the application more user-friendly.
-  -[]Task Completion: Add the ability to mark tasks as completed. -[]Password Encryption: Enhance security by encrypting user passwords before storing them. -[] 
+  #Enchancements and features** -[x]User Interface: Create a graphical user interface(GUI) to enhance user experience and make the application more user-friendly.
+  -[x]Task Completion: Add the ability to mark tasks as completed. -[x]Password Encryption: Enhance security by encrypting user passwords before storing them. -[x] 
    Display Virtual Calendar: the code already has a function to display a monthly calendar. This feature can be improved by allowing users to navigate through 
    different months and years.
   
--[]User Authentication: Improve the authentication process by securely storing passwords and adding password hashing.
+-[x]User Authentication: Improve the authentication process by securely storing passwords and adding password hashing.
 
 #final
 
--[] Implement final refinements and improvements.
--[] Prepare documentation and user guide for the Virtual Calendar.
--[] Finalize deployment process for web
--[] Conduct final testing and quality assurance
--[] Release Virtual Calendar
+-[X] Implement final refinements and improvements.
+-[X] Prepare documentation and user guide for the Virtual Calendar.
+-[X] Finalize deployment process for web
+-[X] Conduct final testing and quality assurance
+-[X] Release Virtual Calendar
