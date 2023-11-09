@@ -9,9 +9,11 @@
 - [X] Design and develop user interface for the main planner view
 - [X] Conduct basic testing and bug fixes
 
-  #Enchancements and features** -[x]User Interface: Create a graphical user interface(GUI) to enhance user experience and make the application more user-friendly.
-  -[x]Task Completion: Add the ability to mark tasks as completed. -[x]Password Encryption: Enhance security by encrypting user passwords before storing them. -[x] 
-   Display Virtual Calendar: the code already has a function to display a monthly calendar. This feature can be improved by allowing users to navigate through 
+  #Enchancements and features**
+- [X] User Interface: Create a graphical user interface(GUI) to enhance user experience and make the application more user-friendly.
+- [X] Task Completion: Add the ability to mark tasks as completed.
+- [X] Password Encryption: Enhance security by encrypting user passwords before storing them.
+- [X] Display Virtual Calendar: the code already has a function to display a monthly calendar. This feature can be improved by allowing users to navigate through 
    different months and years.
   
 - [x] User Authentication: Improve the authentication process by securely storing passwords and adding password hashing.
